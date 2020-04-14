@@ -11,4 +11,4 @@
 
 runtime: nodejs10
 env_variables:
-  REDIRECT_URL: https://<project ID>.appspot.com/oauth2callback
+  REDIRECT_URL: https://customer-273607.appspot.com/oauth2callback
