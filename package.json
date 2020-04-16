@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlesamples/io2015-codelabs"
+    "url": "https://github.com/francissudhir"
   },
   "main": "app.js",
   "scripts": {
